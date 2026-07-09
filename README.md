@@ -45,7 +45,7 @@ The database design separates the original flat data into the following tables:
 
 The database diagram shows the relationship between the main entities in the project.
 
-![Database diagram](images/database_diagram.png)
+![Database diagram](database_diagram.png)
 
 ## Tools & Technologies
 
