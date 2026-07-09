@@ -12,7 +12,7 @@ The main goal of this project was to design a relational database that separates
 
 ## Dataset
 
-The original dataset included 16 columns and 23,906 rows.
+The original dataset included 16 columns and 23,906 rows. I took it from Kaggle: https://www.kaggle.com/datasets/missionjee/car-sales-report?select=Car+Sales.xlsx+-+car_data.csv
 
 For this public portfolio version, the repository includes a 200-row sample dataset. Customer names and phone numbers were anonymized before publishing.
 
